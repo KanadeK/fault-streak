@@ -1,0 +1,6 @@
+Thread 0x00000001 (most recent call first):
+  File "synthetic_worker.py", line 12 in wait_for_job
+  File "synthetic_worker.py", line 8 in run
+
+Current thread 0x00000002 (most recent call first):
+  File "synthetic_main.py", line 40 in capture
